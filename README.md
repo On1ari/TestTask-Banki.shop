@@ -3,8 +3,7 @@
 # Open a website:
 
 ```
-netlify:
-https://testtask-bunkishop-oniari.netlify.app/
+[![Netlify]](https://testtask-bunkishop-oniari.netlify.app/)
 ```
 
 # Description
