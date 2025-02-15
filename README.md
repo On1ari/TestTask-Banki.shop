@@ -1,5 +1,12 @@
 # Test task Banki.shop
 
+# Open a website:
+
+```
+netlify:
+https://testtask-bunkishop-oniari.netlify.app/
+```
+
 # Description
 
 ```
