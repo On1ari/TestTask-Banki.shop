@@ -2,9 +2,9 @@
 
 # Open a website:
 
-```
+
 [![Netlify]](https://testtask-bunkishop-oniari.netlify.app/)
-```
+
 
 # Description
 
