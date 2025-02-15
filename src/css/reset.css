@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Убираем стандартные стили у списков */
+ul, ol {
+  list-style: none;
+}
+
+/* Убираем стандартные стили у ссылок */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Убираем рамку у кнопок и инпутов в фокусе */
+button, input, textarea {
+  border: none;
+  outline: none;
+  font: inherit;
+}
+
+/* Делаем кнопки кликабельными */
+button {
+  cursor: pointer;
+  background: none;
+}
+
+/* Убираем стандартные стили у таблиц */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Убираем стандартные стили у изображений */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
